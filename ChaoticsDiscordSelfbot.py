@@ -8,7 +8,7 @@ from discord.ext import commands
 #THE BOT WILL NOT RESPOND TO COMMANDS COMING FROM THE BOT ACCOUNT, YOU MUST USE ANOTHER ACCOUNT TO COMMAND IT
 
 
-#Put your bot's prefix in the quotes. The prefix is used to signal to the bot that the following text is a command.
+#Put your bot's prefix in the quotes. The prefix is used to signal to the bot that the following text is a command. The default prefix is $.
 
 # For example, a help command with the prefix "$" would look like this.    $help
 
